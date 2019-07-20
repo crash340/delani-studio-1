@@ -12,3 +12,6 @@ header,
     /*-0-background-size: cover; */
     background-size: cover;
 }
+.card {
+    text-align: center;
+}
