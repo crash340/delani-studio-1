@@ -6,7 +6,7 @@ header,
 }
 
 #intro {
-    background: url("../images/backgrounds/h_img.jpg") no-repeat center center fixed;
+    background: url("../images/backgrounds/h_img.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     /*-0-background-size: cover; */
@@ -14,4 +14,18 @@ header,
 }
 .card {
     text-align: center;
+}
+#services {
+    background: url("../images/backgrounds/s_image.jpg") no-repeat center center;
+    /*width: 1920px;*/
+    /*height: 488px;*/
+    height: 400px;
+    background-position: center center;
+    color: white;
+    padding-top: 60px;
+}
+#about {
+    padding-top: 50px;
+    /*padding: 80px;*/
+    /*height: 300px;*/
 }
