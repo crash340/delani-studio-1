@@ -19,10 +19,11 @@ header,
     background: url("../images/backgrounds/s_image.jpg") no-repeat center center;
     /*width: 1920px;*/
     /*height: 488px;*/
-    height: 400px;
+    height: 450px;
     background-position: center center;
     color: white;
     padding-top: 60px;
+    background-size: auto;
 }
 #about {
     padding-top: 50px;
