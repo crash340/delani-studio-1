@@ -47,5 +47,17 @@ h2 {
     text-align: left;
     font-size: 24px;
     padding-left: 10px;
-
+}
+#contact {
+    padding-top: 30px;
+}
+#contactForm::placeholder {
+    color;
+    opacity: 1;
+}
+.form-control {
+    color: white;
+}
+.md-form label{
+    color: white;
 }
