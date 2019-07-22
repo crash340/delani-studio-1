@@ -12,6 +12,9 @@ header,
     /*-0-background-size: cover; */
     background-size: cover;
 }
+#logo {
+    margin: 35vh;
+}
 .card {
     text-align: center;
 }
@@ -24,6 +27,7 @@ header,
     color: white;
     padding-top: 60px;
     background-size: auto;
+
 }
 #about {
     padding-top: 50px;
@@ -75,7 +79,4 @@ h2 {
     background-position: center;
     background-repeat: no-repeat;
     height: 70%;
-}
-#footer {
-    /*margin-top: 10px;*/
 }
