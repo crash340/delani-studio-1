@@ -13,8 +13,14 @@ header,
     background-size: cover;
 }
 #logo {
-    margin: 35vh;
+    margin-top: 35vh;
 }
+#welcome {
+    padding: 10vh;
+}
+/*#welcome h1 {*/
+/*    font-weight: bold;*/
+/*}*/
 .card {
     text-align: center;
 }
