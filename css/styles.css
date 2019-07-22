@@ -86,3 +86,12 @@ h2 {
     background-repeat: no-repeat;
     height: 70%;
 }
+#design-text {
+    display: none;
+}
+#dev-text {
+    display: none;
+}
+#product-text {
+    display: none;
+}
