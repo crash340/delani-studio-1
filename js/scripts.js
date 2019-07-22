@@ -36,4 +36,11 @@ $(function(){
 	$("div#dark").hover(function(){
 		$("div#dark-text").toggle();
 	});
+	$("form#contactForm").submit(function(event){
+		event.preventDefault();
+		// let name = $("#name").val();
+		let name = document.getElementById("name").value;
+		console.log(name);
+		alert(name + " we have received your message. Thank you for reaching out to us.");
+	});
 });

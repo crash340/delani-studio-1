@@ -176,11 +176,7 @@ h2 {
 #footer {
     padding-top: 80px;
 }
-/* Twitter */
-.fa-twitter {
-    background: #55ACEE;
-    color: red;
-}
+
 #contact {
     background-image: url(../images/backgrounds/c_image.jpg);
     background-size: cover;
