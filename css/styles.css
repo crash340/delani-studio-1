@@ -51,8 +51,8 @@ h2 {
 #contact {
     padding-top: 30px;
 }
-#contactForm::placeholder {
-    color;
+.form-control::placeholder {
+    color: white;
     opacity: 1;
 }
 .form-control {
@@ -60,4 +60,22 @@ h2 {
 }
 .md-form label{
     color: white;
+}
+#footer {
+    padding-top: 80px;
+}
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: red;
+}
+#contact {
+    background-image: url(../images/backgrounds/c_image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70%;
+}
+#footer {
+    /*margin-top: 10px;*/
 }
